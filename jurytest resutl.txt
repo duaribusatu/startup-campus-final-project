@@ -1,0 +1,10 @@
+hat_3.jpg >> good 
+hat_4.jpg >> good
+sandal_1.jpeg >> good
+trouser_1.png >> good
+mnist_11_shoes.png >> good
+mnist_35_bag.png >> good
+mnist_41.png >> good
+mnist_58.png >> good 
+mnist_112.png >> good
+mnist_358.png >> good

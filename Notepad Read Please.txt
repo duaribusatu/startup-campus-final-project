@@ -1,0 +1,2 @@
+Ini adalah handover AI untuk ke BE yang belum di integrasi
+dan ini digunakan untuk cek validasi jury test yang ada secara lokal
